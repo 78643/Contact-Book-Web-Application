@@ -65,6 +65,14 @@ This project is licensed under the **MIT License** – free to use and modify.
 If you like this project, **⭐ star the repository on GitHub** and share your feedback!
 
 ---
+## **📬 Connect With Me**
 
-## Hashtags
+🔗 LinkedIn:https://www.linkedin.com/in/rashmi-kumari-39a42829b/
+
+📧 Email: your-rashmikumari21916@gmail.com
+
+💻 GitHub: https://github.com/78643 
+
+---
+## 🏷️ Hashtags
 #Python #Flask #WebDevelopment #FullStack #HTML #CSS #JavaScript #CRUD #ContactBook #SoftwareEngineering #Coding #OpenSource #GitHub #ProjectShowcase #LearningByDoing #Innovation #Developer #TechProjects #Programming
