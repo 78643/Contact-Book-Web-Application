@@ -69,9 +69,9 @@ If you like this project, **⭐ star the repository on GitHub** and share your f
 
 🔗 LinkedIn:https://www.linkedin.com/in/rashmi-kumari-39a42829b/
 
-📧 Email: your-rashmikumari21916@gmail.com
+📧 Email:rashmikumari21916@gmail.com
 
-💻 GitHub: https://github.com/78643 
+💻 GitHub:https://github.com/78643 
 
 ---
 ## 🏷️ Hashtags
