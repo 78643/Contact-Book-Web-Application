@@ -63,3 +63,8 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ### 🌟 Show your support
 If you like this project, **⭐ star the repository on GitHub** and share your feedback!
+
+---
+
+## Hashtags
+#Python #Flask #WebDevelopment #FullStack #HTML #CSS #JavaScript #CRUD #ContactBook #SoftwareEngineering #Coding #OpenSource #GitHub #ProjectShowcase #LearningByDoing #Innovation #Developer #TechProjects #Programming
